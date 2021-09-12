@@ -1,7 +1,7 @@
 # todesk-silently
 ### 目标
 
-Todesk静默运行补丁
+Todesk隐藏主界面窗口，静默运行补丁
 
 ***
 ### 使用方法
