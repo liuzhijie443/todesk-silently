@@ -5,7 +5,7 @@ Todesk静默运行补丁
 
 ***
 ### 使用方法
-下载ToDesk_Service替换掉ToDesk安装目录原版，另一台机子输入提前记好的设备代码和密码。
+提前记好设备代码和密码，下载ToDesk_Service替换掉ToDesk安装目录的原版ToDesk_Service。
 
 **替换回原版ToDesk_Service恢复正常。**
 
